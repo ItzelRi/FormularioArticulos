@@ -1,1 +1,2 @@
-# FormularioArticulos
+Mi formulario podria formar preguntas para despues enviarselas a algun cliente para que este evalue el articulo y asi se podria crear preguntas especificas para cada uno de los articulos independientemente de las particularidades que tengan.
+Su finalidad en este caso seria crear una conexion entre los vendedores y los clientes para que estos se sientan satifechos, y en todo caso tambien serviria para que los vendedores vean las deficiencias y virtudes de sus productos y asi tal vez mejorarlos si esas respuestas de clientes se repiten sin sesar.
